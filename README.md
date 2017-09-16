@@ -2,6 +2,7 @@
 1. из папки "db" подключиться к базе данных mysql $ -u root -p 
 2. creation.sql
 3. mysql -u bank -p1234 bank
+
 Проект запуск: из проекта
 1. mvn package
 2. mvn spring-boot:run
